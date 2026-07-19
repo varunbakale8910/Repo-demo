@@ -36,3 +36,8 @@ li:hover {
     transform: translateX(8px);
     cursor: pointer;
 }
+.active {
+    background: #2196F3;
+    color: black;
+    transform: translateX(8px);
+}
